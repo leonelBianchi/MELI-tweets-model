@@ -1,4 +1,4 @@
-# MELI Twitter Data Analysis
+# Mercadolibre Twitter Analysis with NLP
 
 **currently working**
 

@@ -1,7 +1,5 @@
 # Mercadolibre Twitter Analysis with NLP
 
-**currently working**
-
 ## Abstract 
 
 In this project, we extract and analyze Twitter data related to MercadoLibre. This covers a complete analysis, from the posing of the correct questions to be solved, the collection of unstructured data, its structuring, its cleaning and its exploratory analysis and the determination of initiatives to take from them. This also includes the generation of models that find patterns between tweets´s words and rts/favs, using natural language processing concepts.

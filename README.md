@@ -53,25 +53,23 @@ searcher.py
 ```
 * **Data cleaning**: Data stored in Dataframes with pandas and removing uncommon signs, irrelevant information and outliers. Data visualization is needed.
 ```bash
-data_collection.ipynb
+data_cleaning.ipynb
 ```
 * **Exploratory data analysis**
 ```bash
-data_collection.ipynb
+exploratory_data_analysis.ipynb
 ```
 * **Natural Language Processing Model**: created with Keras and Tensorflow, using word embedding layers, and trained with Twitter data.
 ```bash
-data_collection.ipynb
+nlp_model.ipynb
 ```
 * **Sentiment Analysis**: using the nlp model, it is possible to classify each tweet in positive sentiment and negative sentiment.
 ```bash
-data_collection.ipynb
+sentiment_analysis.ipynb
 ```
 
 
 ## Libraries
-
-
 
 ```bash
 pip install tweepy

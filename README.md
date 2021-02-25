@@ -39,6 +39,36 @@ We also need to know that the distribution is IID (independent and identical dis
 * How do people respond to each product?
 * Are there more positive or negative tweets?
 
+
+## Pipeline
+
+* **Introduction**: brief explanation of the data extraction process, sources and purposes.
+```bash
+intro.ipynb
+```
+* **Data collection**: The data collection is done using the Twitter API. The tweets made by the mercadolibre´s accounts from LATAM and their mentions are stored in csv files.
+```bash
+data_collection.ipynb
+searcher.py
+```
+* **Data cleaning**: Data stored in Dataframes with pandas and removing uncommon signs, irrelevant information and outliers. Data visualization is needed.
+```bash
+data_collection.ipynb
+```
+* **Exploratory data analysis**
+```bash
+data_collection.ipynb
+```
+* **Natural Language Processing Model**: created with Keras and Tensorflow, using word embedding layers, and trained with Twitter data.
+```bash
+data_collection.ipynb
+```
+* **Sentiment Analysis**: using the nlp model, it is possible to classify each tweet in positive sentiment and negative sentiment.
+```bash
+data_collection.ipynb
+```
+
+
 ## Libraries
 
 
